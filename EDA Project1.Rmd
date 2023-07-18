@@ -1,6 +1,6 @@
 ---
 title: "EDA Project"
-author: "Devedhar(20BPS1041),Aswanth(20BPS1092),Deepika(20BPS1099)"
+author: "Sarath Chandra Janapati (20BCE1138), Ashwin K S(20BCE1733)"
 date: "03/02/2023"
 output:
   pdf_document: default
